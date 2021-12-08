@@ -1,0 +1,2 @@
+model_checkpoint_path: "dqn_gat.GCN_max_step_10_near_num_10"
+all_model_checkpoint_paths: "dqn_gat.GCN_max_step_10_near_num_10"
